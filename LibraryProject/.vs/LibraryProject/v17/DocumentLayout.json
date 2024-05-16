@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\source\\repos\\LibraryProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C582B53-135D-4BAE-8D88-43E22534B574}|LibraryProject\\LibraryProject.vcxproj|C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C582B53-135D-4BAE-8D88-43E22534B574}|LibraryProject\\LibraryProject.vcxproj|solutionrelative:LibraryProject\\date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C582B53-135D-4BAE-8D88-43E22534B574}|LibraryProject\\LibraryProject.vcxproj|C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C582B53-135D-4BAE-8D88-43E22534B574}|LibraryProject\\LibraryProject.vcxproj|solutionrelative:LibraryProject\\customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C582B53-135D-4BAE-8D88-43E22534B574}|LibraryProject\\LibraryProject.vcxproj|C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C582B53-135D-4BAE-8D88-43E22534B574}|LibraryProject\\LibraryProject.vcxproj|solutionrelative:LibraryProject\\library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C582B53-135D-4BAE-8D88-43E22534B574}|LibraryProject\\LibraryProject.vcxproj|C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C582B53-135D-4BAE-8D88-43E22534B574}|LibraryProject\\LibraryProject.vcxproj|solutionrelative:LibraryProject\\event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C582B53-135D-4BAE-8D88-43E22534B574}|LibraryProject\\LibraryProject.vcxproj|C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C582B53-135D-4BAE-8D88-43E22534B574}|LibraryProject\\LibraryProject.vcxproj|solutionrelative:LibraryProject\\book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C582B53-135D-4BAE-8D88-43E22534B574}|LibraryProject\\LibraryProject.vcxproj|C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\classes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C582B53-135D-4BAE-8D88-43E22534B574}|LibraryProject\\LibraryProject.vcxproj|solutionrelative:LibraryProject\\classes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C582B53-135D-4BAE-8D88-43E22534B574}|LibraryProject\\LibraryProject.vcxproj|C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\LibraryProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C582B53-135D-4BAE-8D88-43E22534B574}|LibraryProject\\LibraryProject.vcxproj|solutionrelative:LibraryProject\\LibraryProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "library.cpp",
+              "DocumentMoniker": "C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\library.cpp",
+              "RelativeDocumentMoniker": "LibraryProject\\library.cpp",
+              "ToolTip": "C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\library.cpp",
+              "RelativeToolTip": "LibraryProject\\library.cpp",
+              "ViewState": "AQIAAEwBAAAAAAAAAAAAAHIBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T14:34:16.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "event.cpp",
+              "DocumentMoniker": "C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\event.cpp",
+              "RelativeDocumentMoniker": "LibraryProject\\event.cpp",
+              "ToolTip": "C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\event.cpp",
+              "RelativeToolTip": "LibraryProject\\event.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T14:34:04.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "date.cpp",
+              "DocumentMoniker": "C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\date.cpp",
+              "RelativeDocumentMoniker": "LibraryProject\\date.cpp",
+              "ToolTip": "C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\date.cpp",
+              "RelativeToolTip": "LibraryProject\\date.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T14:33:49.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "customer.cpp",
+              "DocumentMoniker": "C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\customer.cpp",
+              "RelativeDocumentMoniker": "LibraryProject\\customer.cpp",
+              "ToolTip": "C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\customer.cpp",
+              "RelativeToolTip": "LibraryProject\\customer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T14:33:31.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "book.cpp",
+              "DocumentMoniker": "C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\book.cpp",
+              "RelativeDocumentMoniker": "LibraryProject\\book.cpp",
+              "ToolTip": "C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\book.cpp",
+              "RelativeToolTip": "LibraryProject\\book.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T14:33:15.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "classes.h",
+              "DocumentMoniker": "C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\classes.h",
+              "RelativeDocumentMoniker": "LibraryProject\\classes.h",
+              "ToolTip": "C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\classes.h",
+              "RelativeToolTip": "LibraryProject\\classes.h",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwFUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-14T14:32:38.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryProject.cpp",
+              "DocumentMoniker": "C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\LibraryProject.cpp",
+              "RelativeDocumentMoniker": "LibraryProject\\LibraryProject.cpp",
+              "ToolTip": "C:\\Users\\Bartek\\source\\repos\\LibraryProject\\LibraryProject\\LibraryProject.cpp",
+              "RelativeToolTip": "LibraryProject\\LibraryProject.cpp",
+              "ViewState": "AQIAAFwBAAAAAAAAAAAgwIQBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T14:31:59.815Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
