@@ -1,0 +1,57 @@
+﻿<Window x:Class="GreyscaleConverter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GreyscaleConverter"
+        mc:Ignorable="d"
+        Title="Greyscale converter" Height="900" Width="1600">
+    <ScrollViewer Background="DarkSlateBlue">
+        <StackPanel>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="1" HorizontalAlignment="Center">
+                    <Button Content=" Choose file " Click="ChooseFileClicked" Margin="5,5,5,5"/>
+                </StackPanel>
+                <Border ClipToBounds="True" Grid.Row="1" Grid.Column="1" Margin="50,5,50,5" MouseWheel="zoomImage" MouseLeftButtonDown="grabImage" MouseMove="panImage" MouseLeftButtonUp="releaseImage" Background="MidnightBlue">
+                    <Image x:Name="inputImage" />
+                </Border>
+            </Grid>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Average algorithm:" Margin="5,5,5,5" HorizontalAlignment="Center" Foreground="AliceBlue"/>
+                <Label Content="Desaturation algorithm:" Margin="5,5,5,5" Grid.Column="1" HorizontalAlignment="Center" Foreground="AliceBlue"/>
+                <Label Content="Luminosity algorithm:" Margin="5,5,5,5" Grid.Column="2" HorizontalAlignment="Center" Foreground="AliceBlue"/>
+                <Border ClipToBounds="True" Grid.Row="1" Margin="50,5,50,5" MouseWheel="zoomImage" MouseLeftButtonDown="grabImage" MouseMove="panImage" MouseLeftButtonUp="releaseImage" Background="MidnightBlue">
+                    <Image x:Name="grayscale1" />
+                </Border>
+                <Border ClipToBounds="True" Grid.Row="1" Grid.Column="1" Margin="50,5,50,5" MouseWheel="zoomImage" MouseLeftButtonDown="grabImage" MouseMove="panImage" MouseLeftButtonUp="releaseImage" Background="MidnightBlue">
+                    <Image x:Name="grayscale2" />
+                </Border>
+                <Border ClipToBounds="True" Grid.Row="1" Grid.Column="2" Margin="50,5,50,5" MouseWheel="zoomImage" MouseLeftButtonDown="grabImage" MouseMove="panImage" MouseLeftButtonUp="releaseImage" Background="MidnightBlue">
+                    <Image x:Name="grayscale3" />
+                </Border>
+                <Button x:Name="saveGS1" Content=" Save " Grid.Row="2" Margin="5,5,5,5" HorizontalAlignment="Center" Visibility="Hidden" Click="saveAverageGS"/>
+                <Button x:Name="saveGS2" Content=" Save " Grid.Row="2" Grid.Column="1" Margin="5,5,5,5" HorizontalAlignment="Center" Visibility="Hidden" Click="saveDesaturationGS"/>
+                <Button x:Name="saveGS3" Content=" Save " Grid.Row="2" Grid.Column="2" Margin="5,5,5,5" HorizontalAlignment="Center" Visibility="Hidden" Click="saveLuminosityGS"/>
+            </Grid>
+        </StackPanel>
+    </ScrollViewer>
+</Window>
